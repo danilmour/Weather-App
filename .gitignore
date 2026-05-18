@@ -1,2 +1,10 @@
 node_modules
 dist
+package-lock.json
+.vite
+*.local
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
